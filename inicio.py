@@ -50,6 +50,7 @@ while True:
             Numero de personas en la reservas son : {num_comensales}
             La mesa asignada es: Mesa {mesa}
            """)
+            print("Gracias por visitarnos.")
             break
         elif opcion =='2':
             print("Salir")
